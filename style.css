@@ -1,7 +1,7 @@
 
 .container{
     width: 95%;
-    height: 81vh;
+    height: 83.4vh;
     margin: auto;
     display: flex;
     justify-content: center;
@@ -14,7 +14,7 @@
     margin: auto;
     padding: 25px;
     text-align: center;
-    background-color: rgba(0, 0, 255, 0.425);
+    background-color: rgba(167, 224, 232, 0.995);
     border-radius: 5px;
     display: flex;
     justify-content: center;
